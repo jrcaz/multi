@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "MultiSample"
 include ':app'
 include ':multi'
+include ':sample'
+include ':docs'
